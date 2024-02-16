@@ -1,0 +1,6 @@
+Why are you interested in taking CMSC320?
+
+As a computer science major, I'm drawn to CMSC320 because it offers a comprehensive exploration of data science—a field I see as pivotal in today's data-driven world. 
+I'm eager to gain skills in data manipulation, visualization, and machine learning, which are crucial for understanding and solving real-world problems. 
+Additionally, I believe mastering data science will not only enhance my career prospects but also empower me to contribute meaningfully to societal challenges. 
+Ultimately, I see CMSC320 as a stepping stone towards pursuing further studies or research in this dynamic and impactful field.
